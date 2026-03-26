@@ -3,14 +3,43 @@
 #+hugo_section: .
 #+hugo_auto_export: t
 
+#+begin_export html
+<img src="/headshot.jpeg" align="right" width="250px" alt="Headshot of Enrico Colon">
+#+end_export
 * Enrico Celestino Colón
-PhD Student in Mathematics at Harvard studying low-dimensional topology. My advisor is Peter Kronheimer.
+Ph.D. Student\\
+Department of Mathematics\\
+Harvard University\\
+Cambridge, MA
 
+Email: ecolon [at] math [dot] harvard [dot] edu
+
+Office: Harvard Science Center, 1 Oxford St., Room 425F
+
+#+begin_export html
+Curriculum Vitae: <a href="/colon_cv.pdf" target="_blank">(PDF)</a> (Updated March 2026)
+#+end_export
 * About
-Welcome to my website.
+I am a Ph.D. student in mathematics at Harvard University advised by [[https://people.math.harvard.edu/~kronheim/][Peter Kronheimer]]. Previously, I received my B.S. in mathematics from MIT in 2023, where I was advised by [[https://math.mit.edu/directory/profile.html?pid=192][Tom Mrowka]].
+
+I am interested in low-dimensional topology, particularly applications of knot theory to the study of 3- and 4-manifolds and categorified link invariants. I am fortunate to be supported by a Harvard Graduate Prize Fellowship, and I am affiliated with a [[https://sites.google.com/view/simons-newstructures/home][Simons Collaboration]].
 
 * Research
-Working on things.
+- Corks equivalent to Fintushel--Stern Surgery (joint with [[https://math.yale.edu/profile/pedro-suarez][Pedro Suárez]] and [[https://sites.google.com/view/charlesrstine][Charles Stine]]) (in preparation).
+- [[https://arxiv.org/abs/2210.10259][Hamilton Powers of Eulerian Digraphs]] (joint with [[https://math.mit.edu/~urschel/][John Urschel]]), Electronic Journal of Combinatorics, 2024.
 
-* Notes
-Coming soon.
+* Expository
+- Khovanov Skein Lasagna Modules for the Working Topologist (joint with [[https://www.low-dim.top/][Ayodeji Lindblad]], [[https://sites.google.com/view/gagemartin/home][Gage Martin]], and [[https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html][Mira Wattal]]) (in preparation).
+
+* Teaching
+** At Harvard
+- Teaching Fellow, Math 21b (Linear Algebra and Differential Equations), Spring 2025.
+- Teaching Fellow, Math 99r (Knot Theory and Computation), Spring 2027 (scheduled).
+** At MIT
+- Grader, 18.715 (Introduction to Representation Theory), Spring 2023.
+* Leadership and Outreach
+- [[https://mathroots.mit.edu/][√mathroots]] (MIT-PRIMES): a two-week mathematical enrichment program for high school students.
+  - Residential Director, 2025
+  - Academic Mentor, 2025
+  - Assistant Residential Director, 2024
+  - Residential Counselor, 2022--2024
